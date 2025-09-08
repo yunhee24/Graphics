@@ -46,6 +46,7 @@ int main()
 	std::cout << "6. " << glm::to_string(v6) << std::endl;
 
 	std::cout << "¤»";
+	std::cout << "¤»";
 
 	return 0;
 }
